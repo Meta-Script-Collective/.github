@@ -1,6 +1,6 @@
-## Meta Script Collective
+# Meta Script Collective
 
-<img src="https://mintlify.s3.us-west-1.amazonaws.com/metascriptcollective/images/banner_discord.png" />
+<img src="https://i.ibb.co/V04hjf3g/banner-discord-1.png" />
 
 <!--
 
