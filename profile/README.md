@@ -1,4 +1,6 @@
-## Hi there 👋
+## Meta Script Collective
+
+<img src="https://mintlify.s3.us-west-1.amazonaws.com/metascriptcollective/images/banner_discord.png" />
 
 <!--
 
