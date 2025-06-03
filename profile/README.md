@@ -6,3 +6,7 @@ We provided useful FiveM resources for you, that made your server better.
 
 [Discord Store](https://discord.gg/msc-fivem)
 [Website Store](https://msc-fivem.shop)
+
+## Contributors
+- **999s** [Github](https://github.com/mysbryce)
+- **xFxw** [Github](https://github.com/xFxw000)
