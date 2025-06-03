@@ -1,5 +1,8 @@
-# Meta Script Collective
+# ⭐ Meta Script Collective
 
 <img src="https://i.ibb.co/V04hjf3g/banner-discord-1.png" />
 
- [[<kbd> <br>  <br> </kbd>][KBD]](https://pages.github.com/)
+We provided useful FiveM resources for you, that made your server better.
+
+[Discord Store](https://discord.gg/msc-fivem)
+[Website Store](https://msc-fivem.shop)
