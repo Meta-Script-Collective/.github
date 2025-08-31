@@ -8,5 +8,4 @@ We provided useful FiveM resources for you, that made your server better.
 [Website Store](https://msc-fivem.shop)
 
 ## Contributors
-- **999s** [Github](https://github.com/mysbryce)
 - **Fxw** [Github](https://github.com/xFxw000)
