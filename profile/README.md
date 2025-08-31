@@ -1,6 +1,6 @@
 # ⭐ Meta Script Collective
 
-<img src="https://i.ibb.co/V04hjf3g/banner-discord-1.png" />
+<img src="https://img5.pic.in.th/file/secure-sv1/Group-135.png" />
 
 We provided useful FiveM resources for you, that made your server better.
 
@@ -9,4 +9,4 @@ We provided useful FiveM resources for you, that made your server better.
 
 ## Contributors
 - **999s** [Github](https://github.com/mysbryce)
-- **xFxw** [Github](https://github.com/xFxw000)
+- **Fxw** [Github](https://github.com/xFxw000)
